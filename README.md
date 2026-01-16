@@ -1,5 +1,7 @@
 # 포트폴리오 사이트 만들기 프로젝트
 
+## 사용 스택
+
 - react(https://ko.legacy.reactjs.org/) 를 사용하여 사이트를 번들링하고 관리합니다.
 - gsap(https://greensock.com/gsap) 를 이용하여 패럴랙스 효과를 줍니다.
 - lenis(https://lenis.studiofreight.com/) 를 이용하여 스므스 효과를 구현합니다.
